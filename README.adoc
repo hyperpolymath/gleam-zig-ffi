@@ -1,5 +1,10 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+
+// SPDX-License-Identifier: PMPL-1.0
 = Gleam-Zig-FFI
+
+
+
 :toc:
 :toclevels: 3
 
@@ -104,4 +109,4 @@ This library follows the Rhodium Standard Repository guidelines:
 
 == License
 
-AGPL-3.0-or-later
+PMPL-1.0-or-later
